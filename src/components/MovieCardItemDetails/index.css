@@ -1,0 +1,22 @@
+.movie_detainer_container {
+  width: 90%;
+}
+.posterImage {
+  height: 200px;
+  width: 80%;
+  border-radius: 10px;
+}
+.card_background {
+  background: #3a3838;
+  border-radius: 10px;
+}
+
+.cast_image_height {
+  height: 250px;
+}
+
+@media screen and (min-width: 500px) {
+  .posterImage {
+    height: 300px;
+  }
+}
